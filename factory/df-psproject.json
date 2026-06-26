@@ -1,0 +1,15 @@
+{
+	"name": "df-psproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4609fc4d-990c-4602-8f3e-69535b32e882",
+		"tenantId": "d879ad3f-beee-447d-910a-11eb5eb43556"
+	}
+}
